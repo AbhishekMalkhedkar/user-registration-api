@@ -21,7 +21,7 @@ An ultra-secure REST API for managing IMF gadgets, built with Node.js, Express, 
 - Express.js
 - MongoDB with Mongoose
 - JWT for authentication
-- `codename` library for random names
+- `unique-names-generator` library for random names
 
 ---
 
